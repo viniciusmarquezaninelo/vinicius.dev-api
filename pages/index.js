@@ -1,3 +1,3 @@
-const Index = () => 'Vinícius Zaninelo'
+const Index = () => 'API Vinicius.dev'
 
 export default Index
